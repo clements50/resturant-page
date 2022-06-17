@@ -70,7 +70,7 @@ button:hover {
 }
 
 .menu-header {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 
 .pantry-img {
@@ -100,5 +100,18 @@ button:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+@media  screen and (max-width: 650px){
+  .description-card {
+    background: rgb(0, 0, 0, 0.7);
+    text-align: center;
+    padding: 1rem;
+    border-radius: 2rem;
+    max-width: 40rem;
+    min-width: 20rem;
+    min-height: 10rem;
+    font-size: 1.6rem;
+  }
 }
 
