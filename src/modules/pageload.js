@@ -1,3 +1,5 @@
+import { home } from "./home";
+
 const pageload = () => {
   const content = document.querySelector("#content");
 
@@ -60,6 +62,7 @@ const pageload = () => {
 
   navbar();
   createmain();
+  home()
   createFooter();
 };
 
