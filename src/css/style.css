@@ -59,7 +59,7 @@ button:hover {
 
 .main-content {
   margin: 0 auto;
-  width: 70%;
+  width: 100vwgit;
   display: flex;
   justify-content: center;
   align-items: center;
