@@ -102,7 +102,7 @@ button:hover {
   justify-content: center;
 }
 
-@media  screen and (max-width: 650px){
+@media  screen and (max-width: 900px){
   .description-card {
     background: rgb(0, 0, 0, 0.7);
     text-align: center;
